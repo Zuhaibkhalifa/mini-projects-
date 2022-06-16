@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Fredoka One", cursive;
+  height: 100vh;
+  color: wheat;
+}
+
+.main-container {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-shadow: 2px 2px 2px rgb(32, 3, 3);
+  background-color: white;
+  width: 500px;
+  border-radius: 20px;
+  filter: blur(1px);
+}
+.display {
+  font-size: 150px;
+  text-align: center;
+}
+.day {
+  font-size: 2.8rem;
+  text-align: center;
+  margin: 60px;
+}
+
+small {
+  font-size: 2rem;
+}

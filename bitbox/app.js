@@ -1,0 +1,19 @@
+let audio1 = new Audio();
+audio1.src = "./audio/1.wav"
+let audio2 = new Audio();
+audio2.src = "./audio/2.wav"
+let audio3 = new Audio();
+audio3.src = "./audio/3.wav"
+let audio4 = new Audio();
+audio4.src = "./audio/4.wav"
+let audio5 = new Audio();
+audio5.src = "./audio/5.wav"
+let audio6 = new Audio();
+audio6.src = "./audio/6.wav"
+let audio7 = new Audio();
+audio7.src = "./audio/7.wav"
+let audio8 = new Audio();
+audio8.src = "./audio/8.wav"
+let audio9 = new Audio();
+audio9.src = "./audio/9.wav"
+
